@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/zgGhzuBZOQg" target="_blank">
@@ -1368,3 +1369,6 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+=======
+# Event-Webinar-Organisation-App-using-NextJS-Clerk-Webhooks
+>>>>>>> b17587280802f3147e158d508f3bd30fd1e2a7ac
